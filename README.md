@@ -64,4 +64,4 @@ print_rot13.c - contains the function print_R, which handles the conversion spec
 Authors
 Wendy Akinyi | @Wendy_Akinyi
 
-JACOB MOEGI | @JACOB_MOEGI
+Wendy Akinyi | @Wendy_Akinyi
